@@ -11,7 +11,7 @@ Underlined Subheading
 ---------------------
 
 Add Image to Repository 
-![newwork brackets illustration](network-bracker.png)
+![network brackets illustration](network-brackets.png)
 
 Links
 
